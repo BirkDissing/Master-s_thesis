@@ -1,4 +1,4 @@
-# Master-s_thesis
+# Masters_thesis
 Selected code and files from my Master's thesis, 
 where i created and evaluated a predective VAR model 
 that accelerated molecular dynamics simulations.
